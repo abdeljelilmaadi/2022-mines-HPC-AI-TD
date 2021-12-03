@@ -20,14 +20,14 @@ To __check your installation__, try launching Jupyter (e.g. by typing `jupyter n
   ```
 
 ## Program
-* Lab 1: [Principal Component Analysis](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/01-PCA.ipynb) (1h)
-* Lab 2: [Data normalization](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/02-FeatureProcessing.ipynb) (1h)
-* Lab 3: [Introduction to the KaggleInClass project](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/03-ProjectIntro.ipynb) (2h)
-* Lab 4: [Linear and logistic regression](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/04-Linear%20and%20logistic%20regressions.ipynb) (1h) 
-* Lab 5: [Regularized linear regression](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/05-Regularization.ipynb) (1h) 
-* Lab 6: [Nearest neighbors](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/06-NearestNeighbors.ipynb) (1h) 
-* Lab 7: [Trees and Forests](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/07-TreesAndForests.ipynb) (1h) 
-* Lab 8: [Support Vector Machines](https://github.com/chagaz/hpc-ai-ml-2019/blob/master/08-SVM.ipynb) (1h)
+* Lab 1: [Principal Component Analysis](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/01-PCA.ipynb) (1h)
+* Lab 2: [Data normalization](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/02-FeatureProcessing.ipynb) (1h)
+* Lab 3: [Introduction to the KaggleInClass project](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/03-ProjectIntro.ipynb) (2h)
+* Lab 4: [Linear and logistic regression](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/04-Linear%20and%20logistic%20regressions.ipynb) (1h) 
+* Lab 5: [Regularized linear regression](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/05-Regularization.ipynb) (1h) 
+* Lab 6: [Nearest neighbors](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/06-NearestNeighbors.ipynb) (1h) 
+* Lab 7: [Trees and Forests](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/07-TreesAndForests.ipynb) (1h) 
+* Lab 8: [Support Vector Machines](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/08-SVM.ipynb) (1h)
 * Lab 9: Work on the project (3h) 
 
 
