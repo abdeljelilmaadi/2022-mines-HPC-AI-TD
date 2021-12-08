@@ -4,6 +4,7 @@ https://www.hpc-ai.mines-paristech.fr/
 
 ## Requirements
 The labs were developed for Python3. All required packages are part of the [Anaconda platform](https://www.anaconda.com/download/) so you can simply install Anaconda3 on your machine. If you'd rather install just the required packages with pip, that is also possible. The labs were developed for Python 3.4.3, with the following libraries:
+
 * numpy 1.16.5
 * scipy 1.2.2
 * matplotlib 2.2.4
