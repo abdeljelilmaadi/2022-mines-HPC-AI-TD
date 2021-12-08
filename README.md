@@ -2,7 +2,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NelleV/2022-mines-HPC-AI-TD/HEAD)
 
 # hpc-ai-ml-2019
-This repository holds the computer labs for the Introduction to Machine Learning course of the 2019-2020 HPC-AI MSc 
+This repository holds the computer labs for the Introduction to Machine Learning course of the 2019-2020 HPC-AI MSc
 https://www.hpc-ai.mines-paristech.fr/
 
 ## Requirements
@@ -15,7 +15,31 @@ The labs were developed for Python3. All required packages are part of the [Anac
 * seaborn 0.9.0
 * sklearn 0.19.2
 
-To __check your installation__, try launching Jupyter (e.g. by typing `jupyter noteboook` in a shell), navigating to where you have downloaded/pulled the first lab (.ipynb file) and opening it. In that notebook (or in a python terminal), you should be able to run 
+## Quick start
+#### Clone the 2022-mines-HPC-AI-TD repository :
+```
+git clone https://github.com/NelleV/2022-mines-HPC-AI-TD.git
+```
+#### Create the conda environment tp-ml :
+```
+cd 2022-mines-HPC-AI-TD
+conda env create -f environment.yaml
+```
+#### Activate the environment tp-ml :
+```
+conda activate tp-ml
+```
+#### To show the conda environment in Jupyter Notebook, register the kernel:
+```
+python -m ipykernel install --user --name tp-ml --display-name "TP ML"
+```
+#### ps : to unregister the kernel:
+
+```
+jupyter kernelspec uninstall tp-ml
+```
+
+To __check your installation__, try launching Jupyter (e.g. by typing `jupyter noteboook` in a shell), navigating to where you have downloaded/pulled the first lab (.ipynb file) and opening it. In that notebook (or in a python terminal), you should be able to run
   ```python
   import sklearn
   import pandas
@@ -30,4 +54,4 @@ To __check your installation__, try launching Jupyter (e.g. by typing `jupyter n
 
 
 ### Acknowledgements
-These notebooks are adapted from notebooks previously created with the help of Judith Abecassis, Joseph Boyd, Arthur Imber, Benoit Playe and Mihir 
+These notebooks are adapted from notebooks previously created with the help of Judith Abecassis, Joseph Boyd, Arthur Imber, Benoit Playe and Mihir
