@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NelleV/2022-mines-HPC-AI-TD/HEAD)
+
 # hpc-ai-ml-2019
 This repository holds the computer labs for the Introduction to Machine Learning course of the 2019-2020 HPC-AI MSc 
 https://www.hpc-ai.mines-paristech.fr/
