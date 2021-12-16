@@ -26,7 +26,8 @@ To __check your installation__, try launching Jupyter (e.g. by typing `jupyter n
 ## Program
 * Lab 1: [Principal Component Analysis](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/01-PCA.ipynb) (1h)
 * Lab 2: [Data normalization](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/02-FeatureProcessing.ipynb) (1h)
-* Lab 3: [Linear and logistic regression](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/03-Linear%20and%20logistic%20regressions.ipynb) (1h) 
+* Lab 3: [Cross validation & features]() 
+* Lab 4: [Linear and logistic regression](https://github.com/NelleV/2022-mines-HPC-AI-TD/blob/master/04-Linear%20and%20logistic%20regressions.ipynb) (1h) 
 
 
 ### Acknowledgements
